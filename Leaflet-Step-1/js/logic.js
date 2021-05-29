@@ -11,7 +11,7 @@ var satelliteMap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/
   tileSize: 512,
   maxZoom: 18,
   zoomOffset: -1,
-  id: "mapbox/satellite-v9",
+  id: "mapbox/streets-v11",
   accessToken: API_KEY
 });
 
